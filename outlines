@@ -1,0 +1,28 @@
+Project Outline
+  - General
+    - Kaijo minimap
+    - Display logo on wall
+    - Differentiate avatar color based on roles
+    - User-Agent ways of interaction 
+      - video
+      - voice
+      - chat
+  - Company
+    - Movable avatar, can go to interested booth 
+    - customizable booth (based on package)
+    - Present
+    - Q&A
+    - receive application (resume)
+    - on-spot interview
+  - Job Hunter 
+    - Movable avatar, can go to interested booth 
+    - Listen to presentation
+    - Q&A
+    - Apply for position
+    - on-spot interview
+
+TODO
+  - Make 3d environment
+  - Character control
+  - Design 
+  - Track user data (been to which booth, etc)
